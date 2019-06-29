@@ -32,7 +32,8 @@ bunzip2 shape_predictor_68_face_landmarks.dat.bz2
 ## Usage
 
 * Load up the `input` directory with all images and run `./progress.py` to process them
-* Use the *Controls* described below to align the images as closely as possible
+* Images will appear one-by-one with auto rotation based on detected features.
+* Use the *Controls* described below to fine tune image alignment as closely as needed
 * Using [fix-photo-dates](https://idle.run/fix-photo-dates) on the output may be helpful
 
 
